@@ -1,18 +1,13 @@
-# VeVeTo
+# docker-compose-laravel-environment workflow
 
-Management system of the HPBV for all administrative tasks.
-Programmed by DaluMa Websolutions.
-
-## docker-compose workflow
-
-VeVeTo uses a docker-compose workflow that sets up a LEMP network of containers for local development. 
+A docker-compose workflow that sets up a LEMP network of containers for local development. 
 
 
 #### Usage
 
 To get started, make sure you have [Docker installed](https://docs.docker.com/docker-for-mac/install/) on your system, and then clone this repository.
 
-Open a terminal and run `docker-compose up -d --build`. Open up your browser of choice to [http://localhost:8080](http://localhost:8080) and you should see the VeVeTo app running as intended. 
+Open a terminal and run `docker-compose up -d --build`. Open up your browser of choice to [http://localhost:8080](http://localhost:8080) and you should see your app running as intended. 
 
 The following containers that handle Composer, NPM, and Artisan commands without having to have these platforms installed on your local computer. Use the following command templates inside your project root.
 
