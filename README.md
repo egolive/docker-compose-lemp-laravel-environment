@@ -1,6 +1,6 @@
 # docker-compose-laravel-environment workflow
 
-A docker-compose workflow that sets up a LEMP network of containers for local development. 
+A docker-compose workflow that sets up a LEMP software bundle of containers for local development. 
 
 
 #### Usage
