@@ -9,7 +9,7 @@ A docker-compose workflow that sets up a LEMP software bundle of containers for 
 
 To get started, make sure you have [Docker installed](https://docs.docker.com/docker-for-mac/install/) on your system, and then clone this repository.
 
-Open a terminal and run `docker-compose up -d --build`. Open up your browser of choice to [http://localhost:8080](http://localhost:8080) and you should see your app running as intended. 
+Go to your root directory and the /docker/ directory in it. (The directory in which the docker-compose.yml is located). Open a terminal and run `docker-compose up -d --build`. Open up your browser of choice to [http://localhost:8080](http://localhost:8080) and you should see your app running as intended. 
 
 The following containers that handle Composer, NPM, and Artisan commands without having to have these platforms installed on your local computer. Use the following command templates inside your project root.
 
