@@ -1,3 +1,5 @@
+![Build](https://github.com/egolive/docker-compose-lemp-laravel-environment/workflows/Build/badge.svg)
+
 # docker-compose-laravel-environment workflow
 
 A docker-compose workflow that sets up a LEMP software bundle of containers for local development. 
