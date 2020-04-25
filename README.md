@@ -1,9 +1,8 @@
-![Build](https://github.com/egolive/docker-compose-lemp-laravel-environment/workflows/Build/badge.svg)
+![Build](https://github.com/egolive/docker-compose-lemp-laravel-environment/workflows/Build/badge.svg) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/egolive/StrapDown.js/graphs/commit-activity) [![GitHub issues](https://img.shields.io/github/issues/egolive/docker-compose-lemp-laravel-environment.svg)](https://GitHub.com/egolive/docker-compose-lemp-laravel-environment/issues/) [![GitHub release](https://img.shields.io/github/release/egolive/docker-compose-lemp-laravel-environment.svg)](https://GitHub.com/egolive/docker-compose-lemp-laravel-environment/releases/)
 
-# docker-compose-laravel-environment workflow
+# docker-compose-lemp-laravel-environment
 
 A docker-compose workflow that sets up a LEMP software bundle of containers for local development. 
-
 
 #### Usage
 
